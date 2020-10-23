@@ -60,3 +60,4 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)](https://github.com/sYonashiro/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord)](https://github.com/sYonashiro/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)](https://github.com/sYonashiro/)
+[![Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)](https://github.com/sYonashiro/)
