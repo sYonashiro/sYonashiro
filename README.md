@@ -6,6 +6,11 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sYonashiro&show_icons=true)
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sYonashiro/count.svg" />
+</p>
+
 ## Tecnologias
 
 ### Linguagens de Programação
