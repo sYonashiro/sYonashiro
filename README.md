@@ -1,6 +1,6 @@
 ## Sobre mim
 
-<img height="22" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFBFefSf0lk3g/company-logo_200_200/0?e=2159024400&v=beta&t=uZ_YKxUbjelcPcqlJZHsgsHoNEOFJmULJuX0jDLUvAc"> <strong>Sou um desenvolvedor Fullstack, desenvolvendo atualmente aplicações web com Angular e C#, e trabalhando remotamente na [NeoBPO](https://neobpo.com.br/)</strong>
+<strong>Sou um desenvolvedor Fullstack, desenvolvendo atualmente aplicações web com Angular e C#, e trabalhando remotamente na [Hypeone](https://hypeone.com.br/)</strong>
 
 👨‍💻 <strong>Nas horas vagas também gosto de estudar outras tecnologias que não uso diariamente</strong>
 
