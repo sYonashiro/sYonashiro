@@ -4,6 +4,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sYonashiro&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sYonashiro)](https://github.com/sYonashiro/github-readme-stats)
+
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sYonashiro/count.svg" />
