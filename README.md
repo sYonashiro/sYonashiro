@@ -1,8 +1,6 @@
 ## Sobre mim
 
-<strong>Sou um desenvolvedor Fullstack, desenvolvendo atualmente aplicações web com Angular e C#, e trabalhando remotamente na [Hypeone](https://hypeone.com.br/)</strong>
-
-👨‍💻 <strong>Nas horas vagas também gosto de estudar outras tecnologias que não uso diariamente</strong>
+<strong>Sou um desenvolvedor Fullstack, com experiência em ReactJS, React Native, Angular e .Net</strong>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sYonashiro&show_icons=true)
 
