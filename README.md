@@ -1,6 +1,12 @@
 ## Sobre mim
 
-<strong>Sou um desenvolvedor Fullstack, com experiência em ReactJS, React Native, Angular e .Net</strong>
+Sou um Desenvolvedor Full Stack com aproximadamente 7 anos de experiência na área de desenvolvimento de software.
+
+No Front-end tenho conhecimento em React, React Native, Angular, Angular Material, RxJS, Redux, Next.js, Bootstrap e TailwindCSS.
+
+No Back-end tenho conhecimento em diversas tecnologias da stack .Net (C#), sendo as principais .Net Core, SQL Server, Entity Framework, Dapper e RabbitMQ.
+
+Também possuo experiência com DDD, CQRS, Microsserviços e Design Patterns, e costumo aplicar boas práticas como Clean Code, DRY, KISS e YAGNI nos meus códigos.
 
 <p> 
   Visitor count<br>
